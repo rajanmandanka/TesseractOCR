@@ -1,0 +1,10 @@
+[
+    {
+        "image_path" : "thumbnail_Check_4.png",
+        "regex" : "[a-d][0-9]{3} [0-9]{3} [0-9][a-d] [a-d][0-9]{5}[a-d][0-9]{3}[a-d]"
+    },
+    {
+        "image_path" : "thumbnail_Check.png",
+        "regex" : "[a-d][0-9]{8}[a-d] [a-c][0-9]{9}[a-c] [0-9]{10}[a-d]"
+    }
+]
